@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>hwxlikemi's Blog</title><link>https://hwxlikemi.github.io</link><description>长大后，我们更喜欢童话，因为只有在童话里，善恶到头终有报，努力的人都会得到幸福。</description><copyright>hwxlikemi's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/159146868?v=4</url><title>avatar</title><link>https://hwxlikemi.github.io</link></image><lastBuildDate>Sat, 25 Jan 2025 01:48:04 +0000</lastBuildDate><managingEditor>hwxlikemi's Blog</managingEditor><ttl>60</ttl><webMaster>hwxlikemi's Blog</webMaster><item><title>LX Music Api Server手动请求 等 讲解</title><link>https://hwxlikemi.github.io/post/LX%20Music%20Api%20Server-shou-dong-qing-qiu-%20-deng-%20-jiang-jie.html</link><description># 接口列表&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>hwxlikemi's Blog</title><link>https://hwxlikemi.github.io</link><description>长大后，我们更喜欢童话，因为只有在童话里，善恶到头终有报，努力的人都会得到幸福。</description><copyright>hwxlikemi's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/159146868?v=4</url><title>avatar</title><link>https://hwxlikemi.github.io</link></image><lastBuildDate>Sat, 05 Apr 2025 12:07:00 +0000</lastBuildDate><managingEditor>hwxlikemi's Blog</managingEditor><ttl>60</ttl><webMaster>hwxlikemi's Blog</webMaster><item><title>LX Music Api Server手动请求 等 讲解</title><link>https://hwxlikemi.github.io/post/LX%20Music%20Api%20Server-shou-dong-qing-qiu-%20-deng-%20-jiang-jie.html</link><description># 接口列表&#13;
 &#13;
 ## 1.获取播放链接（获取会员歌曲请自行充值会员后在配置文件内填写cookie）  &#13;
 &#13;
@@ -98,6 +98,6 @@ m&#13;
 &#13;
 &#13;
 &#13;
-###### 最后编辑于8月14日。</description><guid isPermaLink="true">https://hwxlikemi.github.io/post/wo-xie-Lx-yin-yuan-la-%EF%BC%81.html</guid><pubDate>Tue, 06 Aug 2024 11:18:37 +0000</pubDate></item><item><title>一些关于Lx Music音源的问题</title><link>https://hwxlikemi.github.io/post/yi-xie-guan-yu-Lx%20Music-yin-yuan-de-wen-ti.html</link><description># 本人最近发现的一些关于Lx Music音源的问题&#13;
-## 关于一些微信公众号、个人的盗版音源的问题&#13;
+###### 最后编辑于8月14日。</description><guid isPermaLink="true">https://hwxlikemi.github.io/post/wo-xie-Lx-yin-yuan-la-%EF%BC%81.html</guid><pubDate>Tue, 06 Aug 2024 11:18:37 +0000</pubDate></item><item><title>一些关于Lx Music音源的问题</title><link>https://hwxlikemi.github.io/post/yi-xie-guan-yu-Lx%20Music-yin-yuan-de-wen-ti.html</link><description># 本人最近发现的一些关于Lx Music音源的问题
+## 关于一些微信公众号、个人的盗版音源的问题
   因为仓库需要持续不断更新的问题，本人 很努力的、想方设法的 在各个渠道中寻找音源，其中B站的一些up收集的音源引起了我的关注。</description><guid isPermaLink="true">https://hwxlikemi.github.io/post/yi-xie-guan-yu-Lx%20Music-yin-yuan-de-wen-ti.html</guid><pubDate>Thu, 01 Aug 2024 10:19:50 +0000</pubDate></item></channel></rss>
